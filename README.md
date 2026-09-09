@@ -249,6 +249,6 @@ Soundtrack 8-bit & lo-fi yang selalu aktif di background saat grinding kodingan:
 
   <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=6441a5,241042,0f051d,00e5ff&height=90&section=footer&text=CONTINUE%3F%209...%208...%207...%20::%20MADE%20BY%20RIDHO%20APRI%20SENA&fontSize=14&fontColor=00FF66&fontAlignY=55&animation=twinkling&stroke=00FF66&strokeWidth=1" width="100%" alt="Retro 2D Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f051d,50:1a0c2e,100:00e5ff&height=120&section=footer&text=CONTINUE%3F%209...%208...%207...%20%3A%3A%20RIDHO%20APRI%20SENA&fontSize=18&fontColor=00FF66&fontAlignY=45&desc=%E2%9C%A8%20THANKS%20FOR%20VISITING%20MY%20PIXEL%20METROPOLIS%20%7C%20PRESS%20START%20TO%20CO-OP%20%E2%9C%A8&descFontSize=12&descColor=FFE600&descAlignY=70&animation=twinkling&stroke=00FF66&strokeWidth=1" width="100%" alt="Retro 2D Footer" />
 
 </div>
