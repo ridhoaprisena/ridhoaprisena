@@ -1,16 +1,18 @@
 <div align="center">
 
-  <!-- 2D Retro Arcade CRT HUD Ticker -->
+  <!-- 2D Retro Pixel Art Scenery Banner (Piece of Art from the Pixelated World) -->
   <p align="center">
-    <code>[ 🔴 1P READY ] &nbsp; HI-SCORE: 999990 &nbsp; CREDITS: 02 &nbsp; STAGE: 01 &nbsp; 2D PIXEL EDITION</code>
+    <img src="https://wallpapers.com/images/hd/pixel-art-background-6yt0s1xdsvj6k7ra.jpg" width="100%" alt="Pixel Art Retro 2D Header Banner" style="border-radius: 12px; border: 3px solid #00FF66; box-shadow: 0 8px 30px rgba(0, 255, 102, 0.25);" />
   </p>
 
-  <!-- Animasi Retro 2D Header Banner (Twinkling Stars + Neon Laser Stroke) -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0f051d,241042,4d1b7b,00e5ff,00ff66&height=220&section=header&text=RIDHO%20APRI%20SENA&fontSize=48&fontColor=00FF66&fontAlignY=38&desc=[%20RETRO%202D%20ARCADE%20::%20FREELANCE%20DEV%20]&descSize=14&descAlignY=64&descAlign=50&animation=twinkling&stroke=00FF66&strokeWidth=2" width="100%" alt="Retro 2D Animated Header Ridho Apri Sena" />
+  <!-- 2D Retro Arcade CRT HUD Ticker -->
+  <p align="center">
+    <code>[ 🔴 1P READY ] &nbsp; HI-SCORE: 999990 &nbsp; CREDITS: 02 &nbsp; STAGE: 01 &nbsp; 2D PIXEL WORLD</code>
+  </p>
 
   <!-- Retro 8-Bit Pixel Typing Banner (Font: Press Start 2P) -->
   <a href="https://github.com/ridhoaprisena">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1300&color=00FF66&center=true&vCenter=true&width=620&lines=INSERT+COIN+TO+START;PLAYER+1:+RIDHO+APRI+SENA;CLASS:+FREELANCE+WEB+DEVELOPER;BASE:+PADANG,+INDONESIA;CURRENT+QUEST:+BUILDING+APPS;NEXT+SKILL+TREE:+FLUTTER+APP+DEV;SOUNDTRACK:+SPOTIFY+RETRO+BEATS" alt="Retro 2D Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1300&color=00FF66&center=true&vCenter=true&width=620&lines=WELCOME+TO+THE+PIXELATED+WORLD;PLAYER+1:+RIDHO+APRI+SENA;CLASS:+FREELANCE+WEB+DEVELOPER;BASE:+PADANG,+INDONESIA;CURRENT+QUEST:+BUILDING+APPS;NEXT+SKILL+TREE:+FLUTTER+APP+DEV;SOUNDTRACK:+SPOTIFY+RETRO+BEATS" alt="Retro 2D Typing SVG" />
   </a>
 
   <br/><br/>
