@@ -12,7 +12,6 @@
 
   <!-- Status Pills Bergaya Material You (MD3) -->
   <p align="center">
-  
     <img src="https://img.shields.io/badge/📍_Padang,_Sumbar-1E1A22?style=for-the-badge&logo=googlemaps&logoColor=D0BCFF" alt="Lokasi" />
     <img src="https://img.shields.io/badge/💼_Freelance_Developer-1E1A22?style=for-the-badge&logo=codeforces&logoColor=38D499" alt="Status" />
     <a href="mailto:ridhoaprisena21@gmail.com">
