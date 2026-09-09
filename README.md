@@ -1,23 +1,24 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1008,35:361d10,70:5c341e,100:8e522d&height=180&section=header&text=Ridho%20Apri%20Sena&fontSize=38&fontColor=FFD479&fontAlignY=38&desc=WEB%20DEV%20%7C%20LARAVEL%20%E2%97%8F%20REACT.JS%20%E2%97%8F%20PHP%20%E2%97%8F%20JS%20%E2%97%8F%20PYTHON&descFontSize=13&descColor=E8A858&descAlignY=62&animation=twinkling&stroke=B36830&strokeWidth=1" width="100%" alt="Ridho Apri Sena - Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f051d,35:280b45,70:5a189a,100:9d4edd&height=180&section=header&text=Ridho%20Apri%20Sena&fontSize=38&fontColor=00FF66&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Dev%20%7C%20Network%20Management&descFontSize=14&descColor=FFE600&descAlignY=62&animation=twinkling&stroke=00FF66&strokeWidth=1" width="100%" alt="Ridho Apri Sena - Header Banner" />
 
   <p align="center">
     <code>[ 🔴 1P READY ] &nbsp; HI-SCORE: 999990 &nbsp; CREDITS: 02 &nbsp; STAGE: 01 &nbsp; 2D RETRO WORLD</code>
   </p>
 
   <a href="https://github.com/ridhoaprisena">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=00FF66&center=true&vCenter=true&width=680&lines=WELCOME+TO+THE+PIXELATED+WORLD;PLAYER+1:+RIDHO+APRI+SENA;CLASS:+FREELANCE+WEB+DEVELOPER;TECH+STACK:+REACT+•+LARAVEL+•+PHP+•+JS;BASE:+PADANG,+INDONESIA;CURRENT+QUEST:+NETWORKING+%26+LINUX;NEXT+SKILL+TREE:+FLUTTER+APP+DEV" alt="Retro 2D Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=00FF66&center=true&vCenter=true&width=700&lines=WELCOME+TO+THE+PIXELATED+WORLD;PLAYER+1:+RIDHO+APRI+SENA;CLASS:+SOFTWARE+ENGINEER+%26+WEB+DEV;SPECIALTY:+NETWORK+MANAGEMENT;TECH+STACK:+REACT+•+LARAVEL+•+PHP+•+JS;BASE:+PADANG,+INDONESIA;CURRENT+QUEST:+LINUX+%26+NETWORKING;NEXT+SKILL+TREE:+FLUTTER+DEV" alt="Retro 2D Typing SVG" />
   </a>
 
   <br/><br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/📍_SPAWN-PADANG,_SUMBAR-0F051D?style=for-the-badge&labelColor=1A0C2E&color=00E5FF" alt="Spawn Location" />
-    <img src="https://img.shields.io/badge/⚔️_ROLE-FREELANCE_DEV-0F051D?style=for-the-badge&labelColor=1A0C2E&color=00FF66" alt="Class Role" />
-    <img src="https://img.shields.io/badge/🕹️_STATUS-READY_FOR_CO--OP-0F051D?style=for-the-badge&labelColor=1A0C2E&color=FFE600" alt="Status" />
+    <img src="https://img.shields.io/badge/📍_SPAWN-PADANG,_SUMBAR-0F051D?style=for-the-badge&labelColor=280B45&color=00E5FF" alt="Spawn Location" />
+    <img src="https://img.shields.io/badge/⚔️_ROLE-SOFTWARE_ENGINEER-0F051D?style=for-the-badge&labelColor=280B45&color=00FF66" alt="Class Role" />
+    <img src="https://img.shields.io/badge/🌐_SPECIALTY-NETWORK_MGMT-0F051D?style=for-the-badge&labelColor=280B45&color=9D4EDD" alt="Specialty" />
+    <img src="https://img.shields.io/badge/🕹️_STATUS-READY_FOR_CO--OP-0F051D?style=for-the-badge&labelColor=280B45&color=FFE600" alt="Status" />
     <a href="mailto:ridhoaprisena21@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_WHISPER-KIRIM_PESAN-0F051D?style=for-the-badge&labelColor=1A0C2E&color=FF007F" alt="Whisper Email" />
+      <img src="https://img.shields.io/badge/✉️_WHISPER-KIRIM_PESAN-0F051D?style=for-the-badge&labelColor=280B45&color=FF007F" alt="Whisper Email" />
     </a>
   </p>
 
@@ -35,18 +36,18 @@
 ║  🎮 CHARACTER PROFILE                                 ║
 ╠═══════════════════════════════════════════════════════╣
 ║  • NAME       : Ridho Apri Sena (Ridho)               ║
-║  • CLASS      : Freelance Web Developer               ║
+║  • CLASS      : Software Engineer & Web Developer     ║
+║  • SUB-CLASS  : Network Management & Linux Specialist ║
 ║  • BASE       : Padang, Sumatera Barat 🇮🇩             ║
-║  • CURRENT XP : Portofolio Web & Custom Web Apps      ║
-║  • SUB-CLASS  : Computer Networking & Linux Enthusiast ║
+║  • CURRENT XP : Fullstack Web & Network Infrastructure║
 ║  • NEXT QUEST : Mastering Flutter (Mobile/Desktop)    ║
 ╚═══════════════════════════════════════════════════════╝
       </pre>
       <p>
-        Halo kawan! Selamat datang di markas 2D retro milikku. Aku <b>Ridho</b>, seorang web developer freelance dari <b>Padang</b> yang suka bikin aplikasi web interaktif, rapi, dan responsif.
+        Halo kawan! Selamat datang di markas 2D retro milikku. Aku <b>Ridho</b>, seorang <b>Software Engineer & Web Developer</b> dari <b>Padang</b> yang berfokus pada rekayasa perangkat lunak web interaktif, performa tinggi, serta arsitektur dan administrasi jaringan komputer (<b>Network Management</b>).
       </p>
       <p>
-        Bukan cuma berkutat di kodingan web, aku juga hobi ngulik seluk-beluk <b>jaringan komputer</b> serta konfigurasi sistem operasi Linux & Windows. Saat ini, fokus petualanganku adalah membangun portofolio interaktif dan bersiap naik level ke multi-platform bareng <b>Flutter</b>!
+        Selain merancang sistem web modern berbasis React, Laravel, PHP, dan Python, aku juga mendalami seluk-beluk <b>jaringan komputer</b>, routing, server, serta konfigurasi ekosistem Linux & Windows. Saat ini, fokus petualanganku adalah membangun solusi digital terintegrasi dan bersiap naik level ke multi-platform bareng <b>Flutter</b>!
       </p>
       <pre>
 HP [████████████████████] 100% (Coding Stamina)
@@ -245,6 +246,6 @@ Soundtrack 8-bit & lo-fi yang selalu aktif di background saat grinding kodingan:
 
   <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1008,35:361d10,70:5c341e,100:8e522d&height=120&section=footer&text=CONTINUE%3F%209...%208...%207...%20%3A%3A%20RIDHO%20APRI%20SENA&fontSize=18&fontColor=FFD479&fontAlignY=45&desc=%E2%9C%A8%20THANKS%20FOR%20VISITING%20%7C%20PRESS%20START%20TO%20CO-OP%20%E2%9C%A8&descFontSize=12&descColor=E8A858&descAlignY=70&animation=twinkling&stroke=B36830&strokeWidth=1" width="100%" alt="Retro 2D Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f051d,35:280b45,70:5a189a,100:9d4edd&height=120&section=footer&text=CONTINUE%3F%209...%208...%207...%20%3A%3A%20RIDHO%20APRI%20SENA&fontSize=18&fontColor=00FF66&fontAlignY=45&desc=%E2%9C%A8%20GAME%20SAVED%20%7C%20PRESS%20START%20TO%20CO-OP%20%E2%9C%A8&descFontSize=12&descColor=FFE600&descAlignY=70&animation=twinkling&stroke=00FF66&strokeWidth=1" width="100%" alt="Retro 2D Footer" />
 
 </div>
