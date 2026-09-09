@@ -10,16 +10,16 @@
   <br/>
 
   <p align="center">
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-EADDFF?style=for-the-badge&logo=gmail&logoColor=21005D" alt="Email" />
+    <a href="mailto:ridhoaprisena21@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/your-linkedin">
-      <img src="https://img.shields.io/badge/LinkedIn-D0BCFF?style=for-the-badge&logo=linkedin&logoColor=381E72" alt="LinkedIn" />
+    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://github.com/your-username">
-      <img src="https://img.shields.io/badge/GitHub-211F26?style=for-the-badge&logo=github&logoColor=E6E1E5" alt="GitHub" />
+    <a href="https://github.com/ridhoaprisena" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 </div>
@@ -98,14 +98,14 @@ Hi! I'm **Ridho Apri Sena**, a web developer focused on building functional, mai
 ### <img src="https://api.iconify.design/lucide:layers.svg?color=%23D0BCFF" width="20" height="20" valign="middle" /> GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=1D1B20&title_color=D0BCFF&text_color=E6E1E5&icon_color=D0BCFF" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=1D1B20&title_color=D0BCFF&text_color=E6E1E5" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridhoaprisena&show_icons=true&hide_border=true&count_private=true&bg_color=1D1B20&title_color=D0BCFF&text_color=E6E1E5&icon_color=D0BCFF" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ridhoaprisena&layout=compact&hide_border=true&bg_color=1D1B20&title_color=D0BCFF&text_color=E6E1E5" height="160" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=1D1B20&ring=D0BCFF&fire=D0BCFF&currStreakLabel=D0BCFF&sideNums=E6E1E5&sideLabels=E6E1E5&dates=CAC4D0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ridhoaprisena&hide_border=true&background=1D1B20&ring=D0BCFF&fire=D0BCFF&currStreakLabel=D0BCFF&sideNums=E6E1E5&sideLabels=E6E1E5&dates=CAC4D0" alt="GitHub Streak" />
 </div>
 
 <br/>
