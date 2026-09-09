@@ -1,9 +1,7 @@
-<!-- Material Design 3 Hero Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,15,10,6&height=220&section=header&text=Ridho%20Apri%20Sena&fontSize=42&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Linux%20%26%20Networking%20Enthusiast&descSize=17&descAlignY=58&animation=twinkling&font=Poppins" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,15,10,6&height=220&section=header&text=Ridho%20Apri%20Sena&fontSize=42&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Linux%20and%20Networking%20Enthusiast&descSize=17&descAlignY=58&animation=twinkling&font=Poppins" width="100%" alt="Header Banner" />
 </div>
 
-<!-- Dynamic Typing SVG (Font: Poppins) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&pause=1000&color=D0BCFF&center=true&vcenter=true&width=580&lines=Hi%2C+I'm+Ridho+Apri+Sena;Web+Developer;PHP+%E2%80%A2+Laravel+%E2%80%A2+React.js+%E2%80%A2+Tailwind+CSS;Linux+%26+Computer+Networking;Learning+Flutter+for+Mobile" alt="Typing SVG" />
@@ -11,7 +9,6 @@
 
   <br/>
 
-  <!-- Contact & Links (Material 3 Minimalist Badges) -->
   <p align="center">
     <a href="mailto:your-email@example.com">
       <img src="https://img.shields.io/badge/Email-EADDFF?style=for-the-badge&logo=gmail&logoColor=21005D" alt="Email" />
@@ -113,7 +110,6 @@ Hi! I'm **Ridho Apri Sena**, a web developer focused on building functional, mai
 
 <br/>
 
-<!-- Material Design 3 Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,15,21&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
