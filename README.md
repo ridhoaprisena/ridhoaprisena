@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1008,35:361d10,70:5c341e,100:8e522d&height=180&section=header&text=Ridho%20Apri%20Sena&fontSize=38&fontColor=FFD479&fontAlignY=38&desc=web%20dev%20%7C%20laravel%20react%20php%20js%20python&descFontSize=15&descColor=E8A858&descAlignY=62&animation=twinkling&stroke=B36830&strokeWidth=1" width="100%" alt="Ridho Apri Sena - Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1008,35:361d10,70:5c341e,100:8e522d&height=180&section=header&text=Ridho%20Apri%20Sena&fontSize=38&fontColor=FFD479&fontAlignY=38&desc=WEB%20DEV%20%7C%20LARAVEL%20%E2%97%8F%20REACT.JS%20%E2%97%8F%20PHP%20%E2%97%8F%20JS%20%E2%97%8F%20PYTHON&descFontSize=13&descColor=E8A858&descAlignY=62&animation=twinkling&stroke=B36830&strokeWidth=1" width="100%" alt="Ridho Apri Sena - Header Banner" />
 
   <p align="center">
     <code>[ 🔴 1P READY ] &nbsp; HI-SCORE: 999990 &nbsp; CREDITS: 02 &nbsp; STAGE: 01 &nbsp; 2D RETRO WORLD</code>
