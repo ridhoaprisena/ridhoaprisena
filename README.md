@@ -1,23 +1,19 @@
 <div align="center">
 
-  <!-- 2D Retro Pixel Art Scenery Banner (Piece of Art from the Pixelated World) -->
   <p align="center">
-    <img src="https://wallpapers.com/images/hd/pixel-art-background-6yt0s1xdsvj6k7ra.jpg" width="100%" alt="Pixel Art Retro 2D Header Banner" style="border-radius: 12px; border: 3px solid #00FF66; box-shadow: 0 8px 30px rgba(0, 255, 102, 0.25);" />
+    <img src="./header-banner.jpg" width="100%" alt="London City Pixel Art Header Banner - Ridho Apri Sena" style="border-radius: 12px; border: 3px solid #00FF66; box-shadow: 0 8px 30px rgba(0, 255, 102, 0.25);" />
   </p>
 
-  <!-- 2D Retro Arcade CRT HUD Ticker -->
   <p align="center">
     <code>[ 🔴 1P READY ] &nbsp; HI-SCORE: 999990 &nbsp; CREDITS: 02 &nbsp; STAGE: 01 &nbsp; 2D PIXEL WORLD</code>
   </p>
 
-  <!-- Retro 8-Bit Pixel Typing Banner (Font: Press Start 2P) -->
   <a href="https://github.com/ridhoaprisena">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1300&color=00FF66&center=true&vCenter=true&width=620&lines=WELCOME+TO+THE+PIXELATED+WORLD;PLAYER+1:+RIDHO+APRI+SENA;CLASS:+FREELANCE+WEB+DEVELOPER;BASE:+PADANG,+INDONESIA;CURRENT+QUEST:+BUILDING+APPS;NEXT+SKILL+TREE:+FLUTTER+APP+DEV;SOUNDTRACK:+SPOTIFY+RETRO+BEATS" alt="Retro 2D Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- 2D Arcade Status Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/📍_SPAWN-PADANG,_SUMBAR-0F051D?style=for-the-badge&labelColor=1A0C2E&color=00E5FF" alt="Spawn Location" />
     <img src="https://img.shields.io/badge/⚔️_ROLE-FREELANCE_DEV-0F051D?style=for-the-badge&labelColor=1A0C2E&color=00FF66" alt="Class Role" />
@@ -60,7 +56,6 @@ MP [████████████████░░░░]  80% (Coffee &
       </pre>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- 2D Pixel Frame Avatar -->
       <a href="https://github.com/ridhoaprisena">
         <img src="https://avatars.githubusercontent.com/ridhoaprisena" width="130" height="130" alt="Ridho Avatar" style="border: 4px solid #00FF66; box-shadow: 6px 6px 0px #FF007F;" />
       </a>
@@ -176,7 +171,6 @@ Soundtrack 8-bit & lo-fi yang selalu aktif di background saat grinding kodingan:
   <h4 style="font-family: monospace; color: #00FF66;">🐍 2D RETRO SNAKE EATING GITHUB COMMITS</h4>
   <p>Animasi ular klasik 2D yang lagi menyantap kontribusi commit GitHub harian:</p>
 
-  <!-- Animasi Snake 2D Retro -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
@@ -253,7 +247,6 @@ Soundtrack 8-bit & lo-fi yang selalu aktif di background saat grinding kodingan:
 
   <br/>
 
-  <!-- 2D Retro Footer Banner Animasi -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=6441a5,241042,0f051d,00e5ff&height=90&section=footer&text=CONTINUE%3F%209...%208...%207...%20::%20MADE%20BY%20RIDHO%20APRI%20SENA&fontSize=14&fontColor=00FF66&fontAlignY=55&animation=twinkling&stroke=00FF66&strokeWidth=1" width="100%" alt="Retro 2D Footer" />
 
 </div>
