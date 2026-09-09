@@ -31,7 +31,7 @@
 
 ---
 
-### <img src="assets/icons/terminal.svg" width="20" height="20" valign="middle" /> About Me
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23D0BCFF" width="20" height="20" valign="middle" /> About Me
 
 Hi! I'm **Ridho Apri Sena**, a web developer focused on building functional, maintainable, and responsive web applications. 
 
@@ -42,15 +42,16 @@ Hi! I'm **Ridho Apri Sena**, a web developer focused on building functional, mai
 
 ---
 
-### <img src="assets/icons/gamepad-2.svg" width="20" height="20" valign="middle" /> Tetris Arcade Break
+### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23D0BCFF" width="20" height="20" valign="middle" /> Tetris Mode
 
 <div align="center">
-  <img src="assets/tetris.svg" width="100%" alt="Animated Tetris Game" />
+  <img src="https://raw.githubusercontent.com/debba/gh-contributions-tetris-gif-maker/main/sample/tetris_debba_2023.gif" width="100%" style="border-radius: 12px;" alt="Tetris Contribution Game" />
+  <p><sub>🎮 Tetris animation playing on GitHub contribution matrix</sub></p>
 </div>
 
 ---
 
-### <img src="assets/icons/code-2.svg" width="20" height="20" valign="middle" /> Tech Stack & Tools
+### <img src="https://api.iconify.design/lucide:code-2.svg?color=%23D0BCFF" width="20" height="20" valign="middle" /> Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -67,29 +68,29 @@ Hi! I'm **Ridho Apri Sena**, a web developer focused on building functional, mai
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><strong><img src="assets/icons/layers.svg" width="16" height="16" valign="middle" /> Frontend & UI</strong></p>
+      <p><strong><img src="https://api.iconify.design/lucide:layers.svg?color=%23D0BCFF" width="16" height="16" valign="middle" /> Frontend & UI</strong></p>
       <ul>
         <li>React.js</li>
         <li>Tailwind CSS</li>
         <li>JavaScript (ES6+)</li>
       </ul>
-      <p><strong><img src="assets/icons/terminal.svg" width="16" height="16" valign="middle" /> Backend & Languages</strong></p>
+      <p><strong><img src="https://api.iconify.design/lucide:terminal.svg?color=%23D0BCFF" width="16" height="16" valign="middle" /> Backend & Languages</strong></p>
       <ul>
         <li>PHP & Laravel</li>
         <li>Python</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <p><strong><img src="assets/icons/database.svg" width="16" height="16" valign="middle" /> Databases</strong></p>
+      <p><strong><img src="https://api.iconify.design/lucide:database.svg?color=%23D0BCFF" width="16" height="16" valign="middle" /> Databases</strong></p>
       <ul>
         <li>MySQL</li>
         <li>PostgreSQL</li>
       </ul>
-      <p><strong><img src="assets/icons/network.svg" width="16" height="16" valign="middle" /> Systems & Roadmap</strong></p>
+      <p><strong><img src="https://api.iconify.design/lucide:network.svg?color=%23D0BCFF" width="16" height="16" valign="middle" /> Systems & Roadmap</strong></p>
       <ul>
         <li>Linux & Windows Environments</li>
         <li>Computer Networking Fundamentals</li>
-        <li><img src="assets/icons/smartphone.svg" width="14" height="14" valign="middle" /> <em>Learning:</em> Flutter & Dart</li>
+        <li><img src="https://api.iconify.design/lucide:smartphone.svg?color=%23D0BCFF" width="14" height="14" valign="middle" /> <em>Learning:</em> Flutter & Dart</li>
       </ul>
     </td>
   </tr>
@@ -97,7 +98,7 @@ Hi! I'm **Ridho Apri Sena**, a web developer focused on building functional, mai
 
 ---
 
-### <img src="assets/icons/layers.svg" width="20" height="20" valign="middle" /> GitHub Activity
+### <img src="https://api.iconify.design/lucide:layers.svg?color=%23D0BCFF" width="20" height="20" valign="middle" /> GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=1D1B20&title_color=D0BCFF&text_color=E6E1E5&icon_color=D0BCFF" height="160" alt="GitHub Stats" />
