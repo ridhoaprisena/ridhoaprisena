@@ -1,15 +1,17 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f051d,50:1a0c2e,100:00e5ff&height=180&section=header&text=RIDHO%20APRI%20SENA&fontSize=38&fontColor=00FF66&fontAlignY=38&desc=%F0%9F%9A%80%20FREELANCE%20WEB%20DEV%20%7C%20REACT%20%E2%80%A2%20LARAVEL%20%E2%80%A2%20PHP%20%E2%80%A2%20JS%20%E2%80%A2%20PYTHON%20%E2%80%A2%20FLUTTER&descFontSize=14&descColor=FFE600&descAlignY=62&animation=twinkling&stroke=00FF66&strokeWidth=1" width="100%" alt="Ridho Apri Sena - Header Banner" />
+
   <p align="center">
-    <img src="./header-banner.jpg" width="100%" alt="London City Pixel Art Header Banner - Ridho Apri Sena" style="border-radius: 12px; border: 3px solid #00FF66; box-shadow: 0 8px 30px rgba(0, 255, 102, 0.25);" />
+    <img src="https://wallpapers.com/images/hd/london-city-pixel-art-poster-13jb3t4ocyb4arui.jpg" width="100%" alt="London City Pixel Art Poster" style="border-radius: 12px; border: 3px solid #00FF66; box-shadow: 0 8px 30px rgba(0, 255, 102, 0.25);" />
   </p>
 
   <p align="center">
-    <code>[ 🔴 1P READY ] &nbsp; HI-SCORE: 999990 &nbsp; CREDITS: 02 &nbsp; STAGE: 01 &nbsp; 2D PIXEL WORLD</code>
+    <code>[ 🔴 1P READY ] &nbsp; HI-SCORE: 999990 &nbsp; CREDITS: 02 &nbsp; STAGE: 01 &nbsp; LONDON PIXEL METROPOLIS</code>
   </p>
 
   <a href="https://github.com/ridhoaprisena">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1300&color=00FF66&center=true&vCenter=true&width=620&lines=WELCOME+TO+THE+PIXELATED+WORLD;PLAYER+1:+RIDHO+APRI+SENA;CLASS:+FREELANCE+WEB+DEVELOPER;BASE:+PADANG,+INDONESIA;CURRENT+QUEST:+BUILDING+APPS;NEXT+SKILL+TREE:+FLUTTER+APP+DEV;SOUNDTRACK:+SPOTIFY+RETRO+BEATS" alt="Retro 2D Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=00FF66&center=true&vCenter=true&width=680&lines=WELCOME+TO+THE+PIXELATED+WORLD;PLAYER+1:+RIDHO+APRI+SENA;CLASS:+FREELANCE+WEB+DEVELOPER;TECH+STACK:+REACT+•+LARAVEL+•+PHP+•+JS;BASE:+PADANG,+INDONESIA;CURRENT+QUEST:+NETWORKING+%26+LINUX;NEXT+SKILL+TREE:+FLUTTER+APP+DEV" alt="Retro 2D Typing SVG" />
   </a>
 
   <br/><br/>
