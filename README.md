@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,15,10,6&height=220&section=header&text=Ridho%20Apri%20Sena&fontSize=42&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Linux%20and%20Networking%20Enthusiast&descSize=17&descAlignY=58&animation=twinkling&font=Poppins" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28,24,19,10&height=220&section=header&text=Ridho%20Apri%20Sena&fontSize=44&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Farmer%20at%20Pelican%20Town&descSize=20&descAlignY=58&animation=twinkling&font=VT323" width="100%" alt="Stardew Valley Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&pause=1000&color=D0BCFF&center=true&vcenter=true&width=580&lines=Hi%2C+I'm+Ridho+Apri+Sena;Web+Developer;PHP+%E2%80%A2+Laravel+%E2%80%A2+React.js+%E2%80%A2+Tailwind+CSS;Linux+%26+Computer+Networking;Learning+Flutter+for+Mobile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=F59E0B&center=true&vcenter=true&width=620&lines=Welcome+to+Ridho's+Farm!;Full-Stack+Web+Developer;Skill%3A+Laravel+%2B+React.js+%2B+Tailwind;Dungeon%3A+Linux+%26+Computer+Networking;Active+Quest%3A+Mastering+Flutter+for+Mobile" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -28,35 +28,63 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23D0BCFF" width="20" height="20" valign="middle" /> About Me
+### 🌾 Resident Profile & Dialogue Box
 
-Hi! I'm **Ridho Apri Sena**, a web developer focused on building functional, maintainable, and responsive web applications. 
-
-- 💻 **Web Development:** Working mainly with **Laravel**, **React.js**, and **Tailwind CSS**.
-- 🗄️ **Backend & Databases:** Experienced in **PHP**, **Python**, and managing relational databases with **MySQL** and **PostgreSQL**.
-- 🌐 **Systems & Networking:** Comfortable running environments on both **Linux** and **Windows**, with a keen interest in computer networking principles and server configuration.
-- 📱 **Current Learning Goal:** Exploring cross-platform mobile development with **Flutter**.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        <em>"Greetings! I'm <strong>Ridho Apri Sena</strong>, a Web Developer harvesting clean code and crafting responsive web applications from the ground up."</em>
+      </p>
+      <ul>
+        <li>🏡 <strong>Farm Base:</strong> Web Development (PHP, JavaScript, Python)</li>
+        <li>☕ <strong>Favorite Gift:</strong> Hot Coffee & Elegant Code Architecture</li>
+        <li>🛠️ <strong>Primary Tools:</strong> Laravel, React.js, and Tailwind CSS</li>
+        <li>🌲 <strong>Foraging Grounds:</strong> Linux & Windows environments</li>
+        <li>🌐 <strong>Town Project:</strong> Deepening knowledge in Computer Networking</li>
+        <li>📱 <strong>Community Bulletin Board Quest:</strong> Learn cross-platform mobile with <strong>Flutter</strong></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/kHHvNoh2E6v4QkUuL8/giphy.gif" width="100%" style="border-radius: 12px;" alt="Stardew Valley Farm Scene" />
+      <p><sub>🌤️ Golden hour at the farm</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### <img src="https://api.iconify.design/lucide:gamepad-2.svg?color=%23D0BCFF" width="20" height="20" valign="middle" /> Tetris Mode
+### 🌟 Farmer Skill Levels
+
+| 🎖️ Skill Track | 📊 Current Level | 🌾 Focus Technologies |
+| :--- | :--- | :--- |
+| 🌾 **Farming (Web Dev)** | `Level 10 (Master)` | **Laravel**, **React.js**, **Tailwind CSS**, JavaScript |
+| ⛏️ **Mining (Data & DB)** | `Level 10 (Master)` | **MySQL**, **PostgreSQL**, Schema Design & Queries |
+| 🌲 **Foraging (Systems)** | `Level 9 (Expert)` | **Linux** (CLI / Server Setup), **Windows** |
+| 🎣 **Fishing (Networking)**| `Level 8 (Skilled)` | **Computer Networking**, TCP/IP, Routing & Protocols |
+| ⚔️ **Combat (Scripting)** | `Level 8 (Skilled)` | **Python** Automation & Backend Logic |
+| 🔮 **Magic (Special Quest)**| `In Progress...` | **Flutter & Dart** for Mobile Applications |
+
+---
+
+### 🕹️ Arcade Cabinet at The Stardrop Saloon
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/debba/gh-contributions-tetris-gif-maker/main/sample/tetris_debba_2023.gif" width="100%" style="border-radius: 12px;" alt="Tetris Contribution Game" />
-  <p><sub>🎮 Tetris animation playing on GitHub contribution matrix</sub></p>
+  <img src="https://raw.githubusercontent.com/debba/gh-contributions-tetris-gif-maker/main/sample/tetris_debba_2023.gif" width="100%" style="border-radius: 12px;" alt="Tetris Arcade Game" />
+  <p><sub>🕹️ Playing Tetris on the GitHub contribution matrix at Gus's Saloon</sub></p>
 </div>
 
 ---
 
-### <img src="https://api.iconify.design/lucide:code-2.svg?color=%23D0BCFF" width="20" height="20" valign="middle" /> Tech Stack & Tools
+### 🎒 Tool Inventory & Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,tailwind,python,mysql,postgres&theme=dark" alt="Core Technologies" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,tailwind,python,mysql,postgres&theme=dark" alt="Core Skills" />
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,git,github,postman,flutter,dart,vscode&theme=dark" alt="Tools & Environments" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,git,github,postman,flutter,dart,vscode&theme=dark" alt="Tools & Quests" />
   </a>
 </div>
 
@@ -65,29 +93,29 @@ Hi! I'm **Ridho Apri Sena**, a web developer focused on building functional, mai
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><strong><img src="https://api.iconify.design/lucide:layers.svg?color=%23D0BCFF" width="16" height="16" valign="middle" /> Frontend & UI</strong></p>
+      <p><strong>🌱 Crops & Frontend</strong></p>
       <ul>
         <li>React.js</li>
         <li>Tailwind CSS</li>
         <li>JavaScript (ES6+)</li>
       </ul>
-      <p><strong><img src="https://api.iconify.design/lucide:terminal.svg?color=%23D0BCFF" width="16" height="16" valign="middle" /> Backend & Languages</strong></p>
+      <p><strong>🚜 Barn & Backend</strong></p>
       <ul>
         <li>PHP & Laravel</li>
         <li>Python</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <p><strong><img src="https://api.iconify.design/lucide:database.svg?color=%23D0BCFF" width="16" height="16" valign="middle" /> Databases</strong></p>
+      <p><strong>🗄️ Silo & Storage</strong></p>
       <ul>
         <li>MySQL</li>
         <li>PostgreSQL</li>
       </ul>
-      <p><strong><img src="https://api.iconify.design/lucide:network.svg?color=%23D0BCFF" width="16" height="16" valign="middle" /> Systems & Roadmap</strong></p>
+      <p><strong>🗺️ Map & Future Exploration</strong></p>
       <ul>
         <li>Linux & Windows Environments</li>
         <li>Computer Networking Fundamentals</li>
-        <li><img src="https://api.iconify.design/lucide:smartphone.svg?color=%23D0BCFF" width="14" height="14" valign="middle" /> <em>Learning:</em> Flutter & Dart</li>
+        <li><em>Future Crop:</em> Flutter & Dart</li>
       </ul>
     </td>
   </tr>
@@ -95,21 +123,21 @@ Hi! I'm **Ridho Apri Sena**, a web developer focused on building functional, mai
 
 ---
 
-### <img src="https://api.iconify.design/lucide:layers.svg?color=%23D0BCFF" width="20" height="20" valign="middle" /> GitHub Activity
+### 📊 Farm Statistics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridhoaprisena&show_icons=true&hide_border=true&count_private=true&bg_color=1D1B20&title_color=D0BCFF&text_color=E6E1E5&icon_color=D0BCFF" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ridhoaprisena&layout=compact&hide_border=true&bg_color=1D1B20&title_color=D0BCFF&text_color=E6E1E5" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridhoaprisena&show_icons=true&hide_border=true&count_private=true&bg_color=282828&title_color=FABD2F&text_color=EBDBB2&icon_color=FE8019" height="160" alt="Farm Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ridhoaprisena&layout=compact&hide_border=true&bg_color=282828&title_color=FABD2F&text_color=EBDBB2" height="160" alt="Top Crops" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ridhoaprisena&hide_border=true&background=1D1B20&ring=D0BCFF&fire=D0BCFF&currStreakLabel=D0BCFF&sideNums=E6E1E5&sideLabels=E6E1E5&dates=CAC4D0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ridhoaprisena&hide_border=true&background=282828&ring=FABD2F&fire=FE8019&currStreakLabel=FABD2F&sideNums=EBDBB2&sideLabels=EBDBB2&dates=A89984" alt="Daily Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,15,21&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,19,24,28&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
