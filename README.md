@@ -1,7 +1,12 @@
 <div align="center">
 
-  <!-- Retro 2D Arcade Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f051d,241042,4d1b7b,00e5ff&height=195&section=header&text=RIDHO%20APRI%20SENA&fontSize=44&fontColor=00FF66&fontAlignY=44&desc=[%20RETRO%202D%20EDITION%20::%20LVL%2024%20WEB%20DEV%20]&descSize=14&descAlignY=68&descAlign=50" width="100%" alt="Retro 2D Header Ridho Apri Sena" />
+  <!-- 2D Retro Arcade CRT HUD Ticker -->
+  <p align="center">
+    <code>[ 🔴 1P READY ] &nbsp; HI-SCORE: 999990 &nbsp; CREDITS: 02 &nbsp; STAGE: 01 &nbsp; 2D PIXEL EDITION</code>
+  </p>
+
+  <!-- Animasi Retro 2D Header Banner (Twinkling Stars + Neon Laser Stroke) -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0f051d,241042,4d1b7b,00e5ff,00ff66&height=220&section=header&text=RIDHO%20APRI%20SENA&fontSize=48&fontColor=00FF66&fontAlignY=38&desc=[%20RETRO%202D%20ARCADE%20::%20FREELANCE%20DEV%20]&descSize=14&descAlignY=64&descAlign=50&animation=twinkling&stroke=00FF66&strokeWidth=2" width="100%" alt="Retro 2D Animated Header Ridho Apri Sena" />
 
   <!-- Retro 8-Bit Pixel Typing Banner (Font: Press Start 2P) -->
   <a href="https://github.com/ridhoaprisena">
@@ -246,7 +251,7 @@ Soundtrack 8-bit & lo-fi yang selalu aktif di background saat grinding kodingan:
 
   <br/>
 
-  <!-- 2D Retro Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6441a5,241042,0f051d&height=80&section=footer&text=CONTINUE%3F%209...%208...%207...%20::%20MADE%20BY%20RIDHO%20APRI%20SENA&fontSize=14&fontColor=00FF66&fontAlignY=55" width="100%" alt="Retro 2D Footer" />
+  <!-- 2D Retro Footer Banner Animasi -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=6441a5,241042,0f051d,00e5ff&height=90&section=footer&text=CONTINUE%3F%209...%208...%207...%20::%20MADE%20BY%20RIDHO%20APRI%20SENA&fontSize=14&fontColor=00FF66&fontAlignY=55&animation=twinkling&stroke=00FF66&strokeWidth=1" width="100%" alt="Retro 2D Footer" />
 
 </div>
