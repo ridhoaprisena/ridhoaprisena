@@ -204,10 +204,10 @@ Soundtrack 8-bit & lo-fi yang selalu aktif di background saat grinding kodingan:
   <table border="0" align="center">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=ridhoaprisena&show_icons=true&theme=transparent&title_color=FFD51E&text_color=FFFFFF&icon_color=FF467A&border_color=AB03A9&locale=en" alt="Ridho's Retro Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=ridhoaprisena&show_icons=true&theme=transparent&title_color=FFD51E&text_color=FFFFFF&icon_color=FF467A&border_color=AB03A9&locale=en" alt="Ridho's Retro Stats" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhoaprisena&layout=compact&theme=transparent&title_color=FFD51E&text_color=FFFFFF&border_color=AB03A9" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ridhoaprisena&layout=compact&theme=transparent&title_color=FFD51E&text_color=FFFFFF&border_color=AB03A9" alt="Top Languages" />
       </td>
     </tr>
   </table>
