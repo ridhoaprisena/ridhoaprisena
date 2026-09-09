@@ -1,15 +1,9 @@
 <div align="center">
 
-  <a href="https://github.com/ridhoaprisena">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&pause=1200&color=00FF66&center=true&vCenter=true&width=780&height=75&lines=RIDHO+APRI+SENA;FREELANCE+WEB+DEVELOPER;TECH+STACK:+REACT+%E2%80%A2+LARAVEL+%E2%80%A2+PHP+%E2%80%A2+JS;STAGE:+LONDON+PIXEL+METROPOLIS" alt="Ridho Apri Sena - Pixel Header" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1008,35:361d10,70:5c341e,100:8e522d&height=180&section=header&text=RIDHO%20APRI%20SENA&fontSize=38&fontColor=FFD479&fontAlignY=38&desc=%F0%9F%9A%80%20FREELANCE%20WEB%20DEV%20%7C%20REACT%20%E2%80%A2%20LARAVEL%20%E2%80%A2%20PHP%20%E2%80%A2%20JS%20%E2%80%A2%20PYTHON%20%E2%80%A2%20FLUTTER&descFontSize=14&descColor=E8A858&descAlignY=62&animation=twinkling&stroke=B36830&strokeWidth=1" width="100%" alt="Ridho Apri Sena - Header Banner" />
 
   <p align="center">
-    <img src="https://wallpapers.com/images/hd/london-city-pixel-art-poster-13jb3t4ocyb4arui.jpg" width="100%" alt="London City Pixel Art Poster" style="border-radius: 12px; border: 3px solid #00FF66; box-shadow: 0 8px 30px rgba(0, 255, 102, 0.25);" />
-  </p>
-
-  <p align="center">
-    <code>[ 🔴 1P READY ] &nbsp; HI-SCORE: 999990 &nbsp; CREDITS: 02 &nbsp; STAGE: 01 &nbsp; LONDON PIXEL METROPOLIS</code>
+    <code>[ 🔴 1P READY ] &nbsp; HI-SCORE: 999990 &nbsp; CREDITS: 02 &nbsp; STAGE: 01 &nbsp; 2D RETRO WORLD</code>
   </p>
 
   <a href="https://github.com/ridhoaprisena">
@@ -251,8 +245,6 @@ Soundtrack 8-bit & lo-fi yang selalu aktif di background saat grinding kodingan:
 
   <br/>
 
-  <a href="https://github.com/ridhoaprisena">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=00FF66&center=true&vCenter=true&width=740&height=55&lines=CONTINUE%3F+9...+8...+7...;GAME+SAVED+%3A%3A+THANKS+FOR+VISITING!;MADE+WITH+PASSION+BY+RIDHO+APRI+SENA;%5B+PRESS+START+TO+CO-OP+%5D" alt="Retro 2D Pixel Footer" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1008,35:361d10,70:5c341e,100:8e522d&height=120&section=footer&text=CONTINUE%3F%209...%208...%207...%20%3A%3A%20RIDHO%20APRI%20SENA&fontSize=18&fontColor=FFD479&fontAlignY=45&desc=%E2%9C%A8%20THANKS%20FOR%20VISITING%20%7C%20PRESS%20START%20TO%20CO-OP%20%E2%9C%A8&descFontSize=12&descColor=E8A858&descAlignY=70&animation=twinkling&stroke=B36830&strokeWidth=1" width="100%" alt="Retro 2D Footer" />
 
 </div>
