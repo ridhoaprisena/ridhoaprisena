@@ -1,24 +1,22 @@
 <div align="center">
 
-  <!-- Header Banner Dinamis & Halus -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=141218,2b223c,4f378b,a8c7fa&height=210&section=header&text=Ridho%20Apri%20Sena&fontSize=48&fontColor=D0BCFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Ridho Apri Sena" />
+  <!-- Retro 2D Arcade Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f051d,241042,4d1b7b,00e5ff&height=195&section=header&text=%F0%9F%8E%AE%20RIDHO%20APRI%20SENA&fontSize=42&fontColor=00FF66&fontAlignY=44&desc=%3C%20RETRO%202D%20EDITION%20%7C%20LVL%2024%20DEV%20%3E&descSize=14&descAlignY=68&descAlign=50" width="100%" alt="Retro 2D Header Ridho Apri Sena" />
 
-  <!-- Animasi Mengetik yang Santai & Menarik -->
+  <!-- Retro 8-Bit Pixel Typing Banner (Font: Press Start 2P) -->
   <a href="https://github.com/ridhoaprisena">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=21&pause=1400&color=D0BCFF&center=true&vCenter=true&width=620&lines=👋+Hai!+Salam+kenal,+aku+Ridho+(Ridho+Apri+Sena);💻+Freelance+Web+Developer+dari+Padang;🌐+Suka+ngulik+jaringan+komputer+%26+Linux;🚀+Lagi+bangun+proyek+web+%26+belajar+Flutter;🎧+Coding+sambil+dengerin+musik+di+Spotify" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1300&color=00FF66&center=true&vCenter=true&width=620&lines=INSERT+COIN+TO+START;PLAYER+1:+RIDHO+APRI+SENA;CLASS:+FREELANCE+WEB+DEVELOPER;BASE:+PADANG,+INDONESIA;CURRENT+QUEST:+BUILDING+APPS;NEXT+SKILL+TREE:+FLUTTER+APP+DEV;SOUNDTRACK:+SPOTIFY+RETRO+BEATS" alt="Retro 2D Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Status Pills Bergaya Material You (MD3) -->
+  <!-- 2D Arcade Status Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/📍_Padang,_Sumbar-1E1A22?style=for-the-badge&logo=googlemaps&logoColor=D0BCFF" alt="Lokasi" />
-    <img src="https://img.shields.io/badge/💼_Freelance_Developer-1E1A22?style=for-the-badge&logo=codeforces&logoColor=38D499" alt="Status" />
+    <img src="https://img.shields.io/badge/📍_SPAWN-PADANG,_SUMBAR-0F051D?style=for-the-badge&labelColor=1A0C2E&color=00E5FF" alt="Spawn Location" />
+    <img src="https://img.shields.io/badge/⚔️_ROLE-FREELANCE_DEV-0F051D?style=for-the-badge&labelColor=1A0C2E&color=00FF66" alt="Class Role" />
+    <img src="https://img.shields.io/badge/🕹️_STATUS-READY_FOR_CO--OP-0F051D?style=for-the-badge&labelColor=1A0C2E&color=FFE600" alt="Status" />
     <a href="mailto:ridhoaprisena21@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_Kirim_Pesan-1E1A22?style=for-the-badge&logo=gmail&logoColor=A8C7FA" alt="Kirim Email" />
-    </a>
-    <a href="https://www.instagram.com/ridhoaprisena" target="_blank">
-      <img src="https://img.shields.io/badge/📸_@ridhoaprisena-1E1A22?style=for-the-badge&logo=instagram&logoColor=FFB4AB" alt="Instagram" />
+      <img src="https://img.shields.io/badge/✉️_WHISPER-KIRIM_PESAN-0F051D?style=for-the-badge&labelColor=1A0C2E&color=FF007F" alt="Whisper Email" />
     </a>
   </p>
 
@@ -26,44 +24,54 @@
 
 ---
 
-### 👋 Kenalan Lebih Dekat
+### 👾 PLAYER 1 CHARACTER SHEET
 
 <table>
   <tr>
-    <td width="68%" valign="top" style="font-size: 15px; line-height: 1.6;">
+    <td width="65%" valign="top" style="font-family: monospace; font-size: 14px; line-height: 1.6;">
+      <pre>
+╔═══════════════════════════════════════════════════════╗
+║  🎮 CHARACTER PROFILE                                 ║
+╠═══════════════════════════════════════════════════════╣
+║  • NAME       : Ridho Apri Sena (Ridho)               ║
+║  • CLASS      : Freelance Web Developer               ║
+║  • BASE       : Padang, Sumatera Barat 🇮🇩             ║
+║  • CURRENT XP : Portofolio Web & Custom Web Apps      ║
+║  • SUB-CLASS  : Computer Networking & Linux Enthusiast ║
+║  • NEXT QUEST : Mastering Flutter (Mobile/Desktop)    ║
+╚═══════════════════════════════════════════════════════╝
+      </pre>
       <p>
-        Halo semuanya! Kenalin, aku <b>Ridho Apri Sena</b> (biasa dipanggil <b>Ridho</b>). Aku seorang web developer freelance yang berdomisili di <b>Padang, Sumatera Barat</b> 🇮🇩.
+        Halo kawan! Selamat datang di markas 2D retro milikku. Aku <b>Ridho</b>, seorang web developer freelance dari <b>Padang</b> yang suka bikin aplikasi web interaktif, rapi, dan responsif.
       </p>
       <p>
-        Keseharianku diisi dengan ngulik baris kode, merapikan antarmuka aplikasi, dan bikin website yang nggak cuma fungsional tapi juga nyaman dilihat (aku suka banget sama konsep <i>Material Design 3</i> milik Google). 
+        Bukan cuma berkutat di kodingan web, aku juga hobi ngulik seluk-beluk <b>jaringan komputer</b> serta konfigurasi sistem operasi Linux & Windows. Saat ini, fokus petualanganku adalah membangun portofolio interaktif dan bersiap naik level ke multi-platform bareng <b>Flutter</b>!
       </p>
-      <p>
-        Selain urusan web, aku punya rasa penasaran yang besar sama <b>jaringan komputer (networking)</b> dan ekosistem sistem operasi. Sekarang aku lagi aktif bangun beberapa proyek web personal, portofolio interaktif, dan bersiap eksplor dunia mobile app lewat <b>Flutter</b>.
-      </p>
-      <p>
-        ☕ <i>Terbuka untuk diskusi santai seputar programming, kolaborasi proyek web, atau sekadar sharing ilmu jaringan!</i>
-      </p>
+      <pre>
+HP [████████████████████] 100% (Coding Stamina)
+MP [████████████████░░░░]  80% (Coffee & Music Power)
+      </pre>
     </td>
-    <td width="32%" align="center" valign="middle">
-      <!-- Avatar Asli dari Akun GitHub (Anti-Error) -->
+    <td width="35%" align="center" valign="middle">
+      <!-- 2D Pixel Frame Avatar -->
       <a href="https://github.com/ridhoaprisena">
-        <img src="https://avatars.githubusercontent.com/ridhoaprisena" width="135" height="135" alt="Ridho Apri Sena" style="border-radius: 50%; border: 3px solid #D0BCFF; box-shadow: 0 4px 14px rgba(208, 188, 255, 0.2);" />
+        <img src="https://avatars.githubusercontent.com/ridhoaprisena" width="130" height="130" alt="Ridho Avatar" style="border: 4px solid #00FF66; box-shadow: 6px 6px 0px #FF007F;" />
       </a>
       <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=ridhoaprisena&label=PROFILE+VIEWS&color=D0BCFF&style=flat-square" alt="Jumlah Pengunjung" />
+      <img src="https://komarev.com/ghpvc/?username=ridhoaprisena&label=COINS+INSERTED&color=00FF66&style=flat-square" alt="Visitors Count" />
       <br/>
-      <small><i>🌱 Still learning, always growing.</i></small>
+      <code style="color: #00E5FF;">[ PRESS 'START' TO TALK ]</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Senjata Koding & Keahlian (Tech Stack)
+### 🎒 INVENTORY & SKILL TREE (TECH STACK)
 
 <div align="center">
 
-#### 💻 Bahasa Pemrograman
+#### 🗡️ Core Spells (Programming Languages)
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -73,34 +81,33 @@
   <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Basic" />
 </p>
 
-#### 🎨 Frontend, Framework & UI
+#### 🛡️ Armor & Frontend Shields
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material_Design_3-4F378B?style=for-the-badge&logo=google&logoColor=D0BCFF" alt="Material Design 3" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 🗄️ Database & Penyimpanan
+#### 💾 Memory Cards & Vault (Database)
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-#### 🌐 Jaringan Komputer & Sistem Operasi
+#### 📡 Radar & Operating Systems
 <p>
-  <img src="https://img.shields.io/badge/Computer_Networking-005571?style=for-the-badge&logo=wireshark&logoColor=white" alt="Computer Networking" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Computer_Networking-005571?style=for-the-badge&logo=wireshark&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Linux_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows_OS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-#### 🧰 Tools & Editor Favorit
+#### 🧰 Adventure Equipment & Tools
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
-  <img src="https://img.shields.io/badge/Antigravity_AI-4F378B?style=for-the-badge&logo=googlecloud&logoColor=D0BCFF" alt="Antigravity AI" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity_AI-4F378B?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -108,45 +115,45 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-#### 🎯 Lagi & Akan Dipelajari (Up Next)
+#### 🔮 Locked Skill Tree (Upcoming Upgrades)
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Mobile_&_Desktop_Apps-2B2930?style=for-the-badge&logo=android&logoColor=38D499" alt="Mobile & Desktop Apps" />
+  <img src="https://img.shields.io/badge/Flutter_Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Multiplatform_Apps-2B2930?style=for-the-badge&logo=android&logoColor=00FF66" alt="Apps" />
 </p>
 
 </div>
 
 ---
 
-### 🎵 Spotify Corner: Daily Coding Vibes
+### 📻 2D RETRO ARCADE JUKEBOX (SPOTIFY)
 
 <div align="center">
 
-Ngoding tanpa musik rasanya hambar! Ini beberapa vibe dan playlist yang nemenin aku pas lagi fokus mikir arsitektur kode atau debugging:
+Soundtrack 8-bit & lo-fi yang selalu aktif di background saat grinding kodingan:
 
 <br/>
 
-<table align="center" width="85%">
+<table align="center" width="85%" style="background-color: #0F051D; border: 3px solid #00FF66; box-shadow: 6px 6px 0px #FF007F;">
   <tr>
-    <td align="center" width="22%" style="background-color: #141218; padding: 14px; border-radius: 12px;">
+    <td align="center" width="22%" style="background-color: #1A0C2E; padding: 16px;">
       <a href="https://open.spotify.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="60" height="60" alt="Spotify Logo" />
       </a>
       <br/>
-      <b style="color: #1DB954;">Spotify</b>
+      <b style="color: #00FF66; font-family: monospace;">JUKEBOX</b>
     </td>
-    <td style="background-color: #1D1B20; padding: 16px; border-radius: 12px;">
-      <b>🎶 Playlist Rekomendasi Saat Ngoding:</b>
+    <td style="padding: 18px; font-family: monospace;">
+      <b style="color: #00E5FF;">🎵 INSERT COIN TO LISTEN:</b>
       <br/><br/>
       <a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
-        <img src="https://img.shields.io/badge/Putar_Lofi-Lofi_Beats_Coding-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Lofi Beats" />
+        <img src="https://img.shields.io/badge/TRACK_01-LOFI_CODING_BEATS-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Lofi Beats" />
       </a>
       &nbsp;
       <a href="https://open.spotify.com/playlist/37i9dQZF1DXdgnBRuhLq46" target="_blank">
-        <img src="https://img.shields.io/badge/Putar_Synthwave-Retro_Cyber_Drive-D0BCFF?style=for-the-badge&logo=spotify&logoColor=141218" alt="Synthwave" />
+        <img src="https://img.shields.io/badge/TRACK_02-SYNTHWAVE_RETRO_DRIVE-FF007F?style=for-the-badge&logo=spotify&logoColor=white" alt="Synthwave Retro" />
       </a>
       <br/><br/>
-      <small><i>💡 Klik salah satu tombol di atas untuk langsung mendengarkan lagunya di Spotify kamu!</i></small>
+      <small style="color: #FFE600;"><i>▶ Klik track di atas untuk langsung putar di aplikasi Spotify kamu!</i></small>
     </td>
   </tr>
 </table>
@@ -155,14 +162,14 @@ Ngoding tanpa musik rasanya hambar! Ini beberapa vibe dan playlist yang nemenin 
 
 ---
 
-### 🎮 Istirahat Sejenak: Snake & Mini-Game Zone
+### 🕹️ 2D ARCADE ZONE: SNAKE & MINI-GAMES
 
 <div align="center">
 
-  <h4>🐍 Si Ular Pemakan Kontribusi GitHub</h4>
-  <p>Animasi ular yang lagi sibuk menyantap riwayat commit GitHub-ku:</p>
+  <h4 style="font-family: monospace; color: #00FF66;">🐍 2D RETRO SNAKE EATING GITHUB COMMITS</h4>
+  <p>Animasi ular klasik 2D yang lagi menyantap kontribusi commit GitHub harian:</p>
 
-  <!-- Animasi Snake GitHub Aktif 100% -->
+  <!-- Animasi Snake 2D Retro -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
@@ -171,18 +178,18 @@ Ngoding tanpa musik rasanya hambar! Ini beberapa vibe dan playlist yang nemenin 
 
   <br/><br/>
 
-  <h4>🕹️ Jenuh mikir logika kode? Cobain game santai ini:</h4>
+  <h4 style="font-family: monospace; color: #00E5FF;">🕹️ BREAK TIME? PLAY MINI-GAMES IN BROWSER!</h4>
   <p>
     <a href="https://playsnake.org/" target="_blank">
-      <img src="https://img.shields.io/badge/🎮_Main_Game-Classic_Snake-38D499?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Play Snake" />
+      <img src="https://img.shields.io/badge/ARCADE_1-CLASSIC_SNAKE_2D-00FF66?style=for-the-badge&logo=nintendo-switch&logoColor=000000" alt="Play Snake" />
     </a>
     &nbsp;
     <a href="https://play2048.co/" target="_blank">
-      <img src="https://img.shields.io/badge/🧩_Asah_Otak-2048_Puzzle-A8C7FA?style=for-the-badge&logo=google-play&logoColor=141218" alt="Play 2048" />
+      <img src="https://img.shields.io/badge/ARCADE_2-2048_PUZZLE-00E5FF?style=for-the-badge&logo=google-play&logoColor=000000" alt="Play 2048" />
     </a>
     &nbsp;
     <a href="https://typing.works/" target="_blank">
-      <img src="https://img.shields.io/badge/⚡_Tes_Kecepatan-Typing_Challenge-FFB4AB?style=for-the-badge&logo=speedtest&logoColor=141218" alt="Typing Test" />
+      <img src="https://img.shields.io/badge/ARCADE_3-TYPING_SPEEDRUN-FF007F?style=for-the-badge&logo=speedtest&logoColor=white" alt="Typing Speedrun" />
     </a>
   </p>
 
@@ -190,60 +197,56 @@ Ngoding tanpa musik rasanya hambar! Ini beberapa vibe dan playlist yang nemenin 
 
 ---
 
-### 📊 Statistik & Aktivitas GitHub
+### 📊 2D RETRO HUD & ACTIVITY STATS
 
 <div align="center">
 
   <table border="0" align="center">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ridhoaprisena&show_icons=true&theme=transparent&title_color=D0BCFF&text_color=E6E1E5&icon_color=38D499&border_color=49454F&locale=en" alt="Statistik GitHub Ridho" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ridhoaprisena&show_icons=true&theme=transparent&title_color=00FF66&text_color=E0E0E0&icon_color=00E5FF&border_color=38184C&locale=en" alt="Ridho's Retro Stats" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ridhoaprisena&layout=compact&theme=transparent&title_color=D0BCFF&text_color=E6E1E5&border_color=49454F" alt="Bahasa Pemrograman Terbanyak" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ridhoaprisena&layout=compact&theme=transparent&title_color=00FF66&text_color=E0E0E0&border_color=38184C" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=ridhoaprisena&theme=transparent&hide_border=false&border=49454F&stroke=D0BCFF&ring=D0BCFF&fire=FFB4AB&currStreakNum=E6E1E5&sideNums=E6E1E5&currStreakLabel=D0BCFF&sideLabels=CAC4D0&dates=938F99" alt="Streak Stats GitHub" />
+  <img src="https://streak-stats.demolab.com?user=ridhoaprisena&theme=transparent&hide_border=false&border=38184C&stroke=00FF66&ring=00E5FF&fire=FF007F&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=00FF66&sideLabels=FFE600&dates=999999" alt="GitHub Streak Stats Retro" />
 
 </div>
 
 ---
 
-### 📬 Yuk Ngobrol & Terhubung!
+### 📡 MULTIPLAYER CO-OP (CONNECT WITH ME)
 
 <div align="center">
 
-  <p>Tertarik ngobrol santai, diskusi proyek freelance, atau mau kolaborasi bikin sesuatu yang keren? Jangan ragu buat sapa aku ya!</p>
+  <p style="font-family: monospace;">Mau ajak party mabar koding, diskusi arsitektur jaringan, atau proyek web bareng? Pintu Co-Op selalu terbuka!</p>
 
   <p>
     <a href="mailto:ridhoaprisena21@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-ridhoaprisena21@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/EMAIL-ridhoaprisena21@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://www.instagram.com/ridhoaprisena" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-@ridhoaprisena-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/INSTAGRAM-@ridhoaprisena-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     &nbsp;
-    <a href="#-linkedin-coming-soon">
-      <img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="#-linkedin-co-op-soon">
+      <img src="https://img.shields.io/badge/LINKEDIN-COMING_SOON-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="#-portofolio-coming-soon">
-      <img src="https://img.shields.io/badge/Portofolio-Coming_Soon-4F378B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portofolio" />
+    <a href="#-portfolio-stage-soon">
+      <img src="https://img.shields.io/badge/PORTFOLIO-COMING_SOON-6441A5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 
   <br/>
 
-  <!-- Footer Waving Material Design 3 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=141218,2b223c,4f378b&height=110&section=footer" width="100%" alt="Footer Wave" />
-
-  <p align="center">
-    <sub>Dibuat dengan rasa penasaran & inspirasi <b>Material Design 3</b> oleh <b><a href="https://github.com/ridhoaprisena">Ridho Apri Sena</a></b></sub>
-  </p>
+  <!-- 2D Retro Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6441a5,241042,0f051d&height=80&section=footer&text=CONTINUE%3F%209...%208...%207...%20%E2%80%A2%20MADE%20BY%20RIDHO%20APRI%20SENA&fontSize=14&fontColor=00FF66&fontAlignY=55" width="100%" alt="Retro 2D Footer" />
 
 </div>
