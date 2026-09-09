@@ -7,7 +7,7 @@
   </p>
 
   <a href="https://github.com/ridhoaprisena">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFD51E&center=true&vCenter=true&width=700&lines=WELCOME+TO+THE+PIXELATED+WORLD;PLAYER+1:+RIDHO+APRI+SENA;CLASS:+SOFTWARE+ENGINEER+%26+WEB+DEV;SPECIALTY:+NETWORK+MANAGEMENT;TECH+STACK:+REACT+•+LARAVEL+•+PHP+•+JS;BASE:+PADANG,+INDONESIA;CURRENT+QUEST:+LINUX+%26+NETWORKING;NEXT+SKILL+TREE:+FLUTTER+DEV" alt="Retro 2D Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFD51E&center=true&vCenter=true&width=720&height=50&lines=WELCOME+TO+THE+PIXELATED+WORLD;PLAYER+1:+RIDHO+APRI+SENA;CLASS:+SOFTWARE+ENGINEER+AND+WEB+DEV;SPECIALTY:+NETWORK+MANAGEMENT;TECH+STACK:+REACT+-+LARAVEL+-+PHP+-+JS;BASE:+PADANG,+INDONESIA;CURRENT+QUEST:+LINUX+AND+NETWORKING;NEXT+SKILL+TREE:+FLUTTER+DEV" alt="Retro 2D Typing SVG" />
   </a>
 
   <br/><br/>
